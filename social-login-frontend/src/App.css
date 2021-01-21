@@ -1,0 +1,22 @@
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ff416c;
+  background: -webkit-linear-gradient(to right, #ff4b2b, #ff416c);
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+}
+
+.profile-picture {
+  border-radius: 50%;
+  border: 5px solid #77a1d3;
+  height: 150px;
+  width: 150px;
+}
+
+.user-details {
+  font-family: "Potta One", cursive;
+  font-size: 18px;
+  text-align: center;
+}
